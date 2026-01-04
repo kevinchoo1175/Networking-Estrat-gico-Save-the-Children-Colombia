@@ -1,3 +1,7 @@
+body {
+    background: yellow !important;
+}
+
 * {
     margin: 0;
     padding: 0;
